@@ -3,4 +3,7 @@ This project demonstrates the concept of using feedback from a temperature senso
 
 
 
+
+## for more details check the following [project](https://www.tinkercad.com/things/0mFOk8FGaMD)
+
 ![](https://github.com/MAzewail/ventilation-heat-exchange-system/blob/main/Temp_Fan.PNG)
